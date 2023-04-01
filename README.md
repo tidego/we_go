@@ -1,0 +1,2 @@
+# we_go
+blog
